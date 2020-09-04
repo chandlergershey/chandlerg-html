@@ -1,0 +1,44 @@
+.text-graphic {
+    text-align: center;
+    max-height: 100px;
+}
+
+.text-chandler-g {
+    text-align: center;
+    max-height: 200px;
+    margin-top: 50px;
+}
+
+.platform-logo {
+    width: 25%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 30%;
+    margin-bottom: 50px;
+}
+
+.awaken-cover {
+    width: 200px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 40%;
+    margin-bottom: 30px;
+}
+
+.inline-class{
+    text-align: center;
+}
+
+.cover-description {
+    text-align: center;
+    /* color: plum; */
+    margin-bottom: 80px;
+    width: 100%;
+
+}
+
+.under-construction {
+    text-align: center;
+}
